@@ -1,4 +1,4 @@
-<script setup>
+git push -u origin main<script setup>
 import { ref } from 'vue'
 
 defineProps({
